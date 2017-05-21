@@ -8,7 +8,7 @@ Philosophy behind it is to provide plug and play enviroment with ability of exte
 
 It consists of multiple parts. 
 
- * Client, library for pushing tasks and getting responses...
+ * Client, library for pushing tasks and communicating with worker processess...
 
  * Worker is CLI application for starting instances of your application (processess) and forwarding tasks and providing layer for cummunication with client. 
 
