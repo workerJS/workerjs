@@ -4,7 +4,7 @@
 
  * Client connects to Redis
 
-## Task creation
+## 2: Task creation
 
  * You create task
 
@@ -16,7 +16,7 @@
 
  * Client gets notified after task gets assigned
 
-## Task finish
+## 3: Task finish
 
  * Client unsubscribes form messaging channel
 
