@@ -1,10 +1,10 @@
 # Client protocol
 
-## 1: Initialization
+## 1) Initialization
 
  * Client connects to Redis
 
-## 2: Task creation
+## 2) Task creation
 
  * You create task
 
@@ -16,7 +16,7 @@
 
  * Client gets notified after task gets assigned
 
-## 3: Task finish
+## 3) Task finish
 
  * Client unsubscribes form messaging channel
 
