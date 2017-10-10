@@ -4,7 +4,7 @@ WorkerJS is microservicing framework.
 
 Main goal of this project is to provide scalable environment for running your asynchronous tasks with ability of active monitoring and problem detection. 
 
-Philosophy behind it is to provide plug and play environment with ability of extending it to fit your own needs. You do not need to get your hands dirty but, you can. 
+Philosophy behind it is plug and play environment with ability of extending it to fit your own needs. You do not need to get your hands dirty but, you can. 
 
 It consists of multiple parts. 
 
