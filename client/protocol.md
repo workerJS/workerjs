@@ -16,7 +16,7 @@
 
  * Client gets notified after task gets assigned (in channel)
 
- * **Client gets notified on retry/failure**
+ * **Client gets notified on retry**
 
 ## 3) Task finish/failure
 
