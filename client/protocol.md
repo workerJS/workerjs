@@ -1,4 +1,4 @@
-# Client protocol
+# Client external protocol
 
 ## 1) Initialization
 

@@ -1,4 +1,4 @@
-# Worker protocol
+# Worker external protocol
 
 ## 1) Initialization
 
