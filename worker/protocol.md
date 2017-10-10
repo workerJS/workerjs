@@ -14,8 +14,6 @@
 
  * Worker notifies client about taking task
 
- * Worker notifies your process that it got new task
-
 ## 3) Retry (in case of failure/timeout, when TTL > 0 and retry enabled)
 
  * Worker notifies monitor about task retry (if monitor is available)
@@ -27,6 +25,8 @@
  * Worker notifies monitor
 
  * Worker notifies client
+
+ * Worker unsibscribes from channel
 
 ## 5) Worker shuting down or crash
 
