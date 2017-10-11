@@ -2,6 +2,10 @@
 
 * [Introduction](README.md)
 
+## Decisions
+
+* [Why not HTTP?](./http.md)
+
 ## External protocol
 
 * [Client](./client/protocol.md)
