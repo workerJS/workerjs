@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 
-## Protocol
+## External protocol
 
 * [Client](./client/protocol.md)
 
