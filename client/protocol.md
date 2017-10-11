@@ -10,17 +10,17 @@
 
  * Client subscribes to channel for that that task
 
- * Client pushes task to the top of queue
-
  * Client notifies monitor (if monitor is available)
+
+ * Client pushes task to the top of queue
 
  * Client gets notified after task gets assigned (in channel)
 
- * **Client gets notified on retry**
+ * **Client gets notified on retry (also in channel)**
 
 ## 3) Task finish/failure
 
- * Client unsubscribes form messaging channel
+ * Client unsubscribes from messaging channel
 
  * Client ACKs finish to monitor
 
