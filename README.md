@@ -6,7 +6,7 @@ When you are developing small application it is very easy to forget about future
 
 At the moment when you start scaling, you start facing quite complicated problems and it is very easy to take wrong turn. 
 
-At that moment it is very important to be able to be able to split application into peaces and tackle problems independently. 
+At that moment it is very important to be able to splice application into pieces and tackle problems independently. 
 
 ### What are benefits of splicing application into pieces? 
 
