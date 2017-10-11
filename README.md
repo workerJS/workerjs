@@ -8,7 +8,7 @@ At the moment when you start scaling, you start facing quite complicated problem
 
 At that moment it is very important to be able to be able to split application into peaces and tackle problems independently. 
 
-### What are benefits of splicing application into peaces? 
+### What are benefits of splicing application into pieces? 
 
  * Ability develop pieces with different tools
  * Ability to run multiple instances of same application part
@@ -16,7 +16,7 @@ At that moment it is very important to be able to be able to split application i
    * Redundancy
  * Security by separating responsibility
 
-### What are downsides of splicing application into peaces? 
+### What are downsides of splicing application into pieces? 
 
 * Race conditions
 * Communication overhead
