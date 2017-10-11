@@ -8,7 +8,7 @@
 
 ## 2) Task recieved
 
- * Worker subscribes to channel for that that task
+ * Worker subscribes to channel for that task
 
  * Worker notifies monitor about taking task (if monitor is available)
 
