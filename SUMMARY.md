@@ -2,9 +2,9 @@
 
 * [Introduction](README.md)
 
-## Decisions
+## Communication
 
-* [Why not HTTP?](./http.md)
+* [Picking L4 protocol](./communication/protocol.md)
 
 ## External protocol
 
