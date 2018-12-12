@@ -44,7 +44,7 @@ Client creates contract with contractor and inspection makes sure contract is ex
 
  * Client, layer for communication with worker
 
- * Worker, layer for communication with your service
+ * Multiplexer, layer for communication with your service
 
  * Monitor, independent service for testing system performance and health
 
